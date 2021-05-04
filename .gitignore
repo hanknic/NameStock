@@ -1,0 +1,8 @@
+*.odt
+*.ods
+*.ott
+*#
+*.tar*
+.tmp/
+*.zip
+*.pdf
