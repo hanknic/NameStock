@@ -6,3 +6,4 @@
 .tmp/
 *.zip
 *.pdf
+.csv/
