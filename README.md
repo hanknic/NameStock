@@ -240,7 +240,6 @@
 | pclab.io | pclab | .io |
 | quickmoney.io | quickmoney | .io |
 | salesdeck.io | salesdeck | .io |
-| sina.io | sina | .io |
 | voiceapp.io | voiceapp | .io |
 | cricket.international | cricket | .international |
 | delta10.info | delta10 | .info |
